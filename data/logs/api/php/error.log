@@ -1,0 +1,131 @@
+[05-Jun-2024 10:04:37 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:04:49 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:05:37 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:10:25 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:10:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Kernel" not found in /cropink/bin/console:14
+Stack trace:
+#0 /cropink/vendor/symfony/runtime/Resolver/DebugClosureResolver.php(25): {closure}(Array)
+#1 /cropink/vendor/autoload_runtime.php(24): Symfony\Component\Runtime\Resolver\DebugClosureResolver::Symfony\Component\Runtime\Resolver\{closure}(Array)
+#2 /cropink/bin/console(11): require_once('/cropink/vendor...')
+#3 {main}
+  thrown in /cropink/bin/console on line 14
+[05-Jun-2024 10:12:04 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:12:22 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:12:30 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:13:46 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:13:52 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:13:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:13:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:13:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:13:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:13:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:13:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:21:17 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:21:17 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:21:18 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:21:18 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:21:18 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:21:18 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:21:18 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:21:18 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:24:45 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:25:07 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:25:07 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:25:07 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:25:07 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:25:07 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:25:07 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:25:07 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:43:14 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:43:14 UTC] [critical] Error thrown while running command "messenger:consume event_email -vv". Message: "The receiver "event_email" does not exist."
+[05-Jun-2024 10:43:14 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:43:14 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:43:55 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:43:55 UTC] [critical] Error thrown while running command "messenger:consume event_email -vv". Message: "The receiver "event_email" does not exist."
+[05-Jun-2024 10:43:55 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:43:55 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:44:33 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:44:33 UTC] [critical] Error thrown while running command "messenger:consume event_email -vv". Message: "The receiver "event_email" does not exist."
+[05-Jun-2024 10:44:33 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:44:33 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:47:59 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:47:59 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:47:59 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:48:16 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:48:34 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:48:34 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:48:34 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:49:36 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:49:37 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:49:37 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:50:40 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:50:41 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:50:41 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:55:31 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:55:32 UTC] [critical] An error occurred while using the console. Message: "Command class "App\Console\Dispatch" is not correctly initialized. You probably forgot to call the parent constructor."
+[05-Jun-2024 10:55:32 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:55:32 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:55:49 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:55:49 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:55:49 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:55:58 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:55:58 UTC] [critical] Error thrown while running command "app:dispatch". Message: "Not enough arguments (missing: "message")."
+[05-Jun-2024 10:55:58 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:55:58 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:56:09 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:56:09 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:56:09 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:57:10 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:57:44 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:57:47 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:57:48 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:57:48 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:58:11 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:58:11 UTC] [info] Received message App\Message\EmailMessage
+[05-Jun-2024 10:58:11 UTC] [info] Message App\Message\EmailMessage handled by App\Handler\EmailHandler::__invoke
+[05-Jun-2024 10:58:11 UTC] [info] Message App\Message\EmailMessage handled by App\Handler\WebsocketHandler::__invoke
+[05-Jun-2024 10:58:11 UTC] [info] App\Message\EmailMessage was handled successfully (acknowledging to transport).
+[05-Jun-2024 10:58:11 UTC] [info] Received message App\Message\EmailMessage
+[05-Jun-2024 10:58:11 UTC] [info] Message App\Message\EmailMessage handled by App\Handler\EmailHandler::__invoke
+[05-Jun-2024 10:58:11 UTC] [info] Message App\Message\EmailMessage handled by App\Handler\WebsocketHandler::__invoke
+[05-Jun-2024 10:58:11 UTC] [info] App\Message\EmailMessage was handled successfully (acknowledging to transport).
+[05-Jun-2024 10:58:22 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:58:28 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:58:28 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:58:28 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:58:29 UTC] [info] Received message App\Message\EmailMessage
+[05-Jun-2024 10:58:29 UTC] [info] Message App\Message\EmailMessage handled by App\Handler\EmailHandler::__invoke
+[05-Jun-2024 10:58:29 UTC] [info] Message App\Message\EmailMessage handled by App\Handler\WebsocketHandler::__invoke
+[05-Jun-2024 10:58:29 UTC] [info] App\Message\EmailMessage was handled successfully (acknowledging to transport).
+[05-Jun-2024 10:59:24 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:59:28 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:59:28 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:59:28 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 10:59:29 UTC] [info] Received message App\Message\EmailMessage
+[05-Jun-2024 10:59:29 UTC] [info] Message App\Message\EmailMessage handled by App\Handler\EmailHandler::__invoke
+[05-Jun-2024 10:59:29 UTC] [info] Message App\Message\EmailMessage handled by App\Handler\WebsocketHandler::__invoke
+[05-Jun-2024 10:59:29 UTC] [info] App\Message\EmailMessage was handled successfully (acknowledging to transport).
+[05-Jun-2024 10:59:59 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 11:00:02 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 11:00:03 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 11:00:03 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 11:00:03 UTC] [info] Received message App\Message\EmailMessage
+[05-Jun-2024 11:00:03 UTC] [info] Message App\Message\EmailMessage handled by App\Handler\EmailHandler::__invoke
+[05-Jun-2024 11:00:03 UTC] [info] Message App\Message\EmailMessage handled by App\Handler\WebsocketHandler::__invoke
+[05-Jun-2024 11:00:03 UTC] [info] App\Message\EmailMessage was handled successfully (acknowledging to transport).
+[05-Jun-2024 11:00:25 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 11:00:25 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 11:00:25 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 11:00:33 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 11:00:33 UTC] [info] Received message App\Message\WebsocketMessage
+[05-Jun-2024 11:00:33 UTC] [info] Message App\Message\WebsocketMessage handled by App\Handler\EmailHandler::__invoke
+[05-Jun-2024 11:00:33 UTC] [info] Message App\Message\WebsocketMessage handled by App\Handler\WebsocketHandler::__invoke
+[05-Jun-2024 11:00:33 UTC] [info] App\Message\WebsocketMessage was handled successfully (acknowledging to transport).
+[05-Jun-2024 11:01:59 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 11:02:00 UTC] [info] User Deprecated: The "App\Handler\EmailHandler" class implements "Symfony\Component\Messenger\Handler\MessageSubscriberInterface" that is deprecated since Symfony 6.2, use the {@see AsMessageHandler} attribute instead.
+[05-Jun-2024 11:02:04 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 11:02:04 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 11:02:04 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 11:02:05 UTC] [info] Received message App\Message\WebsocketMessage
+[05-Jun-2024 11:02:05 UTC] [info] Message App\Message\WebsocketMessage handled by App\Handler\WebsocketHandler::__invoke
+[05-Jun-2024 11:02:05 UTC] [info] App\Message\WebsocketMessage was handled successfully (acknowledging to transport).

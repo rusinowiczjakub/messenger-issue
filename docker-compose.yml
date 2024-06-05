@@ -1,0 +1,41 @@
+version: "3.9"
+
+services:
+  application:
+    container_name: example-application
+    build:
+      context: .
+      dockerfile: ./docker/Dockerfile
+      target: dev
+    environment:
+      - COMPOSER_MEMORY_LIMIT=-1
+      - COMPOSER_HOME=/tmp/composer
+    env_file:
+      - .env
+    volumes:
+      - .:/cropink
+      - ./data/logs/api/php-fpm:/var/log/php-fpm
+      - ./data/logs/api/php:/var/log/php
+    depends_on:
+      - queue
+    ports:
+      - "9001:9000"
+    networks:
+      - internal
+
+  queue:
+    container_name: example-queue
+    image: rabbitmq:3.11-management
+    ports:
+      - "5674:5672"
+      - "15674:15672"
+    environment:
+      RABBITMQ_ERLANG_COOKIE: 6085e2412b6fa88647466c6a81c0cea0
+      RABBITMQ_DEFAULT_USER: ${RABBITMQ_DEFAULT_USER}
+      RABBITMQ_DEFAULT_PASS: ${RABBITMQ_DEFAULT_PASS}
+      RABBITMQ_DEFAULT_VHOST: /
+    networks:
+      - internal
+
+networks:
+  internal:

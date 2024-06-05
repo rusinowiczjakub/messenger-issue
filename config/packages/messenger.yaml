@@ -1,0 +1,28 @@
+framework:
+    messenger:
+        transports:
+            event:
+                dsn: '%env(MESSENGER_TRANSPORT_DSN)%'
+                options:
+                    exchange:
+                        name: event
+                        type: topic
+                    queues:
+                        websocket:
+                            binding_keys:
+                                - websocket.message
+                        email:
+                            binding_keys:
+                                - email.message
+
+            event_websocket: '%env(MESSENGER_TRANSPORT_DSN)%?queues[websocket]'
+            event_email: '%env(MESSENGER_TRANSPORT_DSN)%?queues[email]'
+
+        routing:
+            'App\Message\BaseMessage': event
+
+when@test:
+    framework:
+        messenger:
+            transports:
+                async: 'in-memory://'
