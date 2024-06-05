@@ -129,3 +129,11 @@ Stack trace:
 [05-Jun-2024 11:02:05 UTC] [info] Received message App\Message\WebsocketMessage
 [05-Jun-2024 11:02:05 UTC] [info] Message App\Message\WebsocketMessage handled by App\Handler\WebsocketHandler::__invoke
 [05-Jun-2024 11:02:05 UTC] [info] App\Message\WebsocketMessage was handled successfully (acknowledging to transport).
+[05-Jun-2024 11:09:20 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 11:09:20 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 11:09:20 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 11:09:33 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[05-Jun-2024 11:09:33 UTC] [info] Received message App\Message\WebsocketMessage
+[05-Jun-2024 11:09:33 UTC] [info] Message App\Message\WebsocketMessage handled by App\Handler\EmailHandler::__invoke
+[05-Jun-2024 11:09:33 UTC] [info] Message App\Message\WebsocketMessage handled by App\Handler\WebsocketHandler::__invoke
+[05-Jun-2024 11:09:33 UTC] [info] App\Message\WebsocketMessage was handled successfully (acknowledging to transport).

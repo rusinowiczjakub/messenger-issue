@@ -14,7 +14,7 @@ class WebsocketHandler
 {
     public function __invoke(BaseMessage $message): void
     {
-        dump('Websocket Handler');
+        dump('Websocket Handler has run');
     }
 
 //    public static function getHandledMessages(): iterable

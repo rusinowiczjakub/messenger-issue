@@ -14,7 +14,7 @@ class EmailHandler
 {
     public function __invoke(BaseMessage $message): void
     {
-        dump('Email Handler');
+        dump('Email Handler has run');
     }
 
 //    public static function getHandledMessages(): iterable
